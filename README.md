@@ -1,29 +1,34 @@
-# Welcome to your Lovable project
+# 🧭 CrowdCompass
 
-This project was built with [Lovable](https://lovable.dev).
+**Navigate Smarter. Your Safety Matters.**
 
-## Build with Lovable
+CrowdCompass is an AI-powered smart venue management platform that helps visitors and organizers navigate large events safely and efficiently. It provides live crowd insights, venue navigation, weather updates, emergency assistance, and event management in one place.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## ✨ Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- 🏟️ Smart venue selection
+- 📊 Live crowd and occupancy monitoring
+- 🗺️ Interactive venue maps
+- 🌤️ Hourly weather updates
+- 🤖 AI venue assistant
+- 🎫 Digital event tickets with QR codes
+- 📅 Event management
+- 🚨 Emergency SOS
+- 👤 Missing person reporting
+- 🔔 Real-time notifications
+- 📈 Venue analytics dashboard
 
-## Development
+## 🛠️ Tech Stack
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
+- Next.js
 - TypeScript
-- React
 - Tailwind CSS
+- shadcn/ui
+- Framer Motion
+- Google Maps API
+- Weather API
+- Local Storage
+
+---
+
+Built to make large public events safer, smarter, and easier to navigate.
