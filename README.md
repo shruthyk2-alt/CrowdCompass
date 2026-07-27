@@ -16,7 +16,7 @@ CrowdCompass is an AI-powered smart venue management platform that helps visitor
 - 🚨 Emergency SOS
 - 👤 Missing person reporting
 - 🔔 Real-time notifications
-- 📈 Venue analytics dashboard
+- 📈 Venue analytics dashboards 
 
 ## 🛠️ Tech Stack
 
