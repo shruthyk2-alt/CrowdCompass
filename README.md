@@ -29,6 +29,5 @@ CrowdCompass is an AI-powered smart venue management platform that helps visitor
 - Weather API
 - Local Storage
 
----
 
 Built to make large public events safer, smarter, and easier to navigate.
